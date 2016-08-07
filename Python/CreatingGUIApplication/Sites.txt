@@ -1,0 +1,7 @@
+http://www.tkdocs.com/tutorial/
+
+http://www.tutorialspoint.com/python/python_gui_programming.htm
+
+http://zetcode.com/gui/tkinter/introduction/
+
+http://www.python-course.eu/python_tkinter.php
