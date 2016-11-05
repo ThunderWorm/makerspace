@@ -1,7 +1,7 @@
-const char* ASP_ssid = "Cinezok";
-const char* ASP_password = "mekerszpesz";
-const char* TEWASP_ssid = "ThunderEvolverWormWrlssNetwork"; // "Enetix-Software"
-const char* TEWASP_password = "~!@ThunderEvolverWormWrlssNetworkN65U~!@"; // "3n3t1xw1f1"
+const char* ASP_ssid = "ssid";
+const char* ASP_password = "pass";
+const char* TEWASP_ssid = "ssid"; // 
+const char* TEWASP_password = "pass"; // 
 const char* SMTP2goUSER = "aaa";
 const char* SMTP2goPW = "aaa";
 const char* ubidotsStreamId = "makerspaceweather";
